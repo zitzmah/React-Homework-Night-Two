@@ -1,2 +1,12 @@
 .container{
+    display: flex;
+}
+
+.container div {
+    flex: 1;
+}
+
+.movie-image{
+    width: 200px;
+    height: 300px;
 }
